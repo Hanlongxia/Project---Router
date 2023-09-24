@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ip_file.h": "c",
+        "callback_arp.h": "c",
+        "get_interface.h": "c"
+    }
+}
